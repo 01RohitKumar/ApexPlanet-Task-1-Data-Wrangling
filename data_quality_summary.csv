@@ -1,0 +1,11 @@
+Metric,Value
+Total Rows,1000
+Total Columns,12
+Total Missing Values Before Cleaning,33
+Total Missing Values After Cleaning,0
+Duplicate Rows Before Cleaning,0
+Duplicate Rows After Cleaning,0
+Age Outliers,0
+Quantity Outliers,0
+Unit Price Outliers,0
+Total Sales Outliers,19
